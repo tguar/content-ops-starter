@@ -119,13 +119,6 @@ sections:
       you know would benefit from a reduced or free rate, please contact me and
       we can navigate those waters together.
     actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
       - type: Button
         label: Get started
         altText: ''
