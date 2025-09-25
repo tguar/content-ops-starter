@@ -34,7 +34,7 @@ sections:
     actions:
       - type: Button
         label: Book Today
-        altText: ''
+        altText: Book today
         url: /contact
         showIcon: false
         icon: arrowRight
