@@ -53,9 +53,16 @@ sections:
       text: Cupping
       color: text-dark
     subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      All sessions are split into to two parts beginning with 10-15 minutes of
+      dynamic cupping and concluding with 15 minutes of static cupping.
+
+
+      *   30 min Upper/Lower Body: $40
+
+
+      *   50 min Whole Body: $70
+
     actions:
       - type: Button
         label: Get started
