@@ -18,7 +18,7 @@ slug: /contact
 seo:
   type: Seo
   metaTitle: Contact
-  metaDescription: This is the pricing page built with Netlify Create.
+  metaDescription: Contact page for The Dharmic Exchange
   socialImage: /images/main-hero.jpg
   metaTags: []
 ---
