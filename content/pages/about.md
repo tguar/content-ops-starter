@@ -3,13 +3,6 @@ type: PageLayout
 title: Contact & Booking
 sections:
   - type: PricingSection
-    title:
-      type: TitleBlock
-      text: Contact & Booking
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
     subtitle: This is the subtitle for the pricing section
     plans:
       - type: PricingPlan
