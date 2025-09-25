@@ -91,10 +91,6 @@ sections:
       *   60 min Whole Body: $60
 
     actions: []
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
