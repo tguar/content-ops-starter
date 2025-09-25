@@ -121,7 +121,7 @@ sections:
     actions:
       - type: Button
         label: Learn More
-        altText: ''
+        altText: Learn More
         url: /about
         showIcon: false
         icon: arrowRight
