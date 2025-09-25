@@ -85,9 +85,11 @@ sections:
       text: 'Muscle Scraping '
       color: text-dark
     subtitle: ''
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |+
+      *   30 min Upper/Lower Body: $45
+
+      *   60 min Whole Body: $60
+
     actions:
       - type: Button
         label: Get started
