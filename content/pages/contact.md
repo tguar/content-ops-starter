@@ -19,6 +19,5 @@ seo:
   type: Seo
   metaTitle: Contact
   metaDescription: Contact page for The Dharmic Exchange
-  socialImage: /images/main-hero.jpg
   metaTags: []
 ---
