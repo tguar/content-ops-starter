@@ -115,7 +115,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: /services
+slug: /
 seo:
   type: Seo
   metaTitle: Pricing - Demo site
