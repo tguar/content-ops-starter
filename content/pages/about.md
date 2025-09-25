@@ -23,7 +23,7 @@ sections:
     styles:
       self:
         alignItems: center
-slug: /about
+slug: about
 seo:
   type: Seo
   metaTitle: Pricing - Demo site
