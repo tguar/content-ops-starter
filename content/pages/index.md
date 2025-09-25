@@ -122,7 +122,7 @@ sections:
       - type: Button
         label: Get started
         altText: ''
-        url: /contact
+        url: /about
         showIcon: false
         icon: arrowRight
         iconPosition: right
