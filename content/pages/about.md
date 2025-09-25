@@ -4,9 +4,7 @@ title: Contact & Booking
 sections:
   - type: GenericSection
     subtitle: ''
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: "For scheduling and questions, please contact me via text, phone call or email.\_\n\nPhone: (213) 464-2920\n\nEmail: <thedharmicexchange@gmail.com>\n\nI look foward to hearing from you,\_\n\nBen\n"
     actions:
       - type: Button
         label: Get started
