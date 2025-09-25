@@ -145,6 +145,6 @@ slug: /
 seo:
   type: Seo
   metaTitle: Services
-  metaDescription: 'Services page for '
+  metaDescription: Services page for The Dharmic Exchange
   metaTags: []
 ---
