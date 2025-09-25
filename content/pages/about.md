@@ -12,7 +12,7 @@ sections:
     actions:
       - type: Button
         label: Learn More
-        altText: ''
+        altText: Learn more
         url: /services
         showIcon: false
         icon: arrowRight
