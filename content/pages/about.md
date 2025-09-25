@@ -28,6 +28,5 @@ seo:
   type: Seo
   metaTitle: About
   metaDescription: About page for The Dharmic Exchange
-  socialImage: /images/main-hero.jpg
   metaTags: []
 ---
