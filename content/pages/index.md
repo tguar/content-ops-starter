@@ -33,7 +33,7 @@ sections:
 
     actions:
       - type: Button
-        label: Get started
+        label: Book Today
         altText: ''
         url: /contact
         showIcon: false
