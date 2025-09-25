@@ -31,14 +31,7 @@ sections:
 
       *   90 mins: $95
 
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/hero2.svg
