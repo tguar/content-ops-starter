@@ -144,7 +144,7 @@ sections:
 slug: /
 seo:
   type: Seo
-  metaTitle: Pricing - Demo site
-  metaDescription: This is the pricing page built with Netlify Create.
+  metaTitle: Services
+  metaDescription: Services page for The Dharmic Exchange
   metaTags: []
 ---
