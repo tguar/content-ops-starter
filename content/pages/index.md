@@ -32,10 +32,6 @@ sections:
       *   90 mins: $95
 
     actions: []
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
