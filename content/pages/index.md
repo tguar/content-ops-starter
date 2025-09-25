@@ -145,6 +145,6 @@ slug: /
 seo:
   type: Seo
   metaTitle: Services
-  metaDescription: This is the pricing page built with Netlify Create.
+  metaDescription: 'Services page for '
   metaTags: []
 ---
