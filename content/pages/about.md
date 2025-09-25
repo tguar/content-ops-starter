@@ -26,7 +26,7 @@ sections:
 slug: /about
 seo:
   type: Seo
-  metaTitle: Pricing - Demo site
+  metaTitle: About
   metaDescription: Services page for The Dharmic Exchange
   socialImage: /images/main-hero.jpg
   metaTags: []
