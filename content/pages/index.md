@@ -137,10 +137,6 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-    media:
-      type: ImageBlock
-      url: /images/hero2.svg
-      altText: Fun feature preview
     colors: bg-light-fg-dark
     styles:
       self:
