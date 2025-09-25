@@ -13,7 +13,7 @@ sections:
       - type: Button
         label: Learn More
         altText: Learn more
-        url: /services
+        url: /
         showIcon: false
         icon: arrowRight
         iconPosition: right
