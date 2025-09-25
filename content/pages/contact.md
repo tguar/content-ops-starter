@@ -19,7 +19,7 @@ sections:
         alignItems: center
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Contact & Booking
       color: text-dark
 slug: /contact
 seo:
