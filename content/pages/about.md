@@ -5,7 +5,7 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: About
+      text: Contact & Booking
       color: text-dark
       styles:
         self:
