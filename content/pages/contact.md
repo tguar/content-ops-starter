@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Services
+title: Contact
 sections:
   - type: PricingSection
     title:
