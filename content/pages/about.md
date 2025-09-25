@@ -5,7 +5,7 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: Contact
+      text: About
       color: text-dark
       styles:
         self:
