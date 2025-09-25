@@ -63,13 +63,7 @@ sections:
 
       *   50 min Whole Body: $70
 
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
+    actions: []
     colors: bg-light-fg-dark
     styles:
       self:
