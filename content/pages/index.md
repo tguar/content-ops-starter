@@ -31,7 +31,16 @@ sections:
 
       *   90 mins: $95
 
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /contact
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     colors: bg-light-fg-dark
     styles:
       self:
