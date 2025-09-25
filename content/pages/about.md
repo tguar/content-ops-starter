@@ -6,12 +6,6 @@ sections:
     subtitle: ''
     text: "For scheduling and questions, please contact me via text, phone call or email.\_\n\nPhone: (213) 464-2920\n\nEmail: <thedharmicexchange@gmail.com>\n\nI look foward to hearing from you,\_\n\nBen\n"
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
