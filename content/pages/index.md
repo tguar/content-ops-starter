@@ -8,9 +8,29 @@ sections:
       text: 'Massage Therapy '
       color: text-dark
     subtitle: Integrated Bodywork Session
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      This session features numerous restorative modalities such as muscle
+      scraping, Swedish massage, deep tissue massage, dynamic cupping, active
+      cupping, and optional ice massage.
+
+
+      *   60 mins: $60
+
+
+      *   90 mins: $90
+
+
+      \*Client may choose more or less of any modality
+
+
+      Deep Tissue or Swedish Session
+
+
+      *   60 mins: $65
+
+
+      *   90 mins: $95
+
     actions:
       - type: Button
         label: Get started
