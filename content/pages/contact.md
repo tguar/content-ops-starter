@@ -17,7 +17,7 @@ sections:
     styles:
       self:
         alignItems: center
-slug: /about_old
+slug: /contact
 seo:
   type: Seo
   metaTitle: Pricing - Demo site
