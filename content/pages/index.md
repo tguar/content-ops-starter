@@ -52,7 +52,7 @@ sections:
       type: TitleBlock
       text: Cupping
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: ''
     text: >+
       All sessions are split into to two parts beginning with 10-15 minutes of
       dynamic cupping and concluding with 15 minutes of static cupping.
