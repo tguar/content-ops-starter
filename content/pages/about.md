@@ -27,7 +27,7 @@ slug: /about
 seo:
   type: Seo
   metaTitle: About
-  metaDescription: Services page for The Dharmic Exchange
+  metaDescription: About page for The Dharmic Exchange
   socialImage: /images/main-hero.jpg
   metaTags: []
 ---
