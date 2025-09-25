@@ -144,7 +144,7 @@ sections:
 slug: /
 seo:
   type: Seo
-  metaTitle: Pricing - Demo site
+  metaTitle: Services
   metaDescription: This is the pricing page built with Netlify Create.
   metaTags: []
 ---
