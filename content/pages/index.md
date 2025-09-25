@@ -113,8 +113,11 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      My mission and focus is offer accessible bodywork for those who need it
+      most. I know what it feels like to have painfully tight body and not be
+      able to afford bodywork due to lack of finances. If yourself or someone
+      you know would benefit from a reduced or free rate, please contact me and
+      we can navigate those waters together.
     actions:
       - type: Button
         label: Get started
