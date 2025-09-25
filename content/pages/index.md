@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: 'Massage Therapy '
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: Integrated Bodywork Session
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
