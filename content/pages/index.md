@@ -120,7 +120,7 @@ sections:
       we can navigate those waters together.
     actions:
       - type: Button
-        label: Get started
+        label: Learn More
         altText: ''
         url: /about
         showIcon: false
