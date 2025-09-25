@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: About
+title: Contact & Booking
 sections:
   - type: PricingSection
     title:
